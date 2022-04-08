@@ -7,16 +7,12 @@
 
 
 
-SemCor 3.0 was automatically created from SemCor 1.6 by mapping 
-WordNet 1.6 to WordNet 3.0 senses.
+SemCor 3.0 was automatically created from SemCor 1.6 by mapping WordNet 1.6 to WordNet 3.0 senses.
 SemCor 1.6 was created and is property of Princeton University.
 
-Some (few) word senses from WordNet 1.6 were dropped, and therefore 
-they cannot be retrieved anymore in the 3.0 database. A sense of 0 
-(wnsn=0) is used to symbolize a missing sense in WordNet 3.0.
+Some (few) word senses from WordNet 1.6 were dropped, and therefore  they cannot be retrieved anymore in the 3.0 database. A sense of 0 (wnsn=0) is used to symbolize a missing sense in WordNet 3.0.
 
-The automatic mapping was performed within the Language and Information 
-Technologies lab at UNT, by Rada Mihalcea (rada@cs.unt.edu).
+The automatic mapping was performed within the Language and Information Technologies lab at UNT, by Rada Mihalcea (rada@cs.unt.edu).
 
 THIS MAPPING IS PROVIDED "AS IS" AND UNT MAKES NO REPRESENTATIONS 
 OR WARRANTIES, EXPRESS OR IMPLIED.  BY WAY OF EXAMPLE, BUT NOT 
